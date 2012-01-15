@@ -24,6 +24,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voices", "Mystique\Voices\V
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91264700-5C5E-4F5F-B800-2D2A79465C3A}"
 	ProjectSection(SolutionItems) = preProject
+		License.txt = License.txt
 		Readme.txt = Readme.txt
 	EndProjectSection
 EndProject
